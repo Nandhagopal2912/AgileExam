@@ -15,4 +15,4 @@ def gcdOfStrings(str1, str2):
 
 print(gcdOfStrings(str1, str2))
 
-print(os.getenv("SECRET_KEY"))
+
