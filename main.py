@@ -16,3 +16,4 @@ def gcdOfStrings(str1, str2):
 print(gcdOfStrings(str1, str2))
 
 
+print("Changed from Newbranch")
